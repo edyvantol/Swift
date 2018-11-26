@@ -21,10 +21,56 @@ func randomIntBetween (low: Int, high: Int) -> Int
     return (Int(arc4random()) % range) + (low - 1)
 }
 
-let randomNummer = randomIntBetween(low: 1, high: 12)
+var randomNummer = randomIntBetween(low: 1, high: 12)
 
 while (true){
-    print("y/n");
-    let userInput = readLine()!;
-    if ()
+    
+    
+    if (crediet <= 0){
+        print("Je getrokken getal is \(randomNummer)");
+        print ("Je totaal is: \(totaal)");
+        print("Je credietpunten is: \(crediet)");
+        print("Je hebt verloren")
+        break;
+    }
+    else
+    {
+        //berekening
+        totaal = totaal + randomNummer;
+        if (totaal > 21){
+            //verloren
+            print("Je getrokken getal is \(randomNummer)");
+            print ("Je totaal is: \(totaal)");
+            print("Je hebt verloren")
+            break;
+        }
+        else if (totaal < 20){
+            //doorgaan
+            print("Je getrokken getal is \(randomNummer)");
+            print ("Je totaal is: \(totaal)");
+            print("Je credietpunten is: \(crediet)");
+            print("Wil je een nieuwe getal trekken of passen? (n/p)");
+            
+            let userInput = readLine()!;
+            let inputAsString = String(userInput);
+            
+            if (inputAsString == "n"){
+                randomNummer = randomIntBetween(low: 1, high: 12);
+            }
+            else if (inputAsString == "p"){
+                let minCijfer = winCijfer - totaal;
+                crediet = crediet - minCijfer;
+                totaal = 0;
+                randomNummer = randomIntBetween(low: 1, high: 12);
+            }
+            
+        }
+        else if (totaal == 21){
+            //gewonnen
+            print("Je getrokken getal is \(randomNummer)");
+            print ("Je totaal is: \(totaal)");
+            print("Je hebt gewonnen");
+            break;
+        }
+    }
 }
