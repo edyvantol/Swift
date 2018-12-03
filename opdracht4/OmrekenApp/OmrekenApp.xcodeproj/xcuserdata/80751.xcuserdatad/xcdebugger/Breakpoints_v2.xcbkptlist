@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OmrekenApp/ViewController.swift"
+            timestampString = "530628784.42519"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "buttonPressed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OmrekenApp/ViewController.swift"
+            timestampString = "530629393.920991"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.__deallocating_deinit"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.462061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OmrekenApp.ViewController"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.463493"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OmrekenApp.ViewController"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.464648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;OmrekenApp.ViewController&gt;"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.466658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;OmrekenApp.ViewController&gt;"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.469066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OmrekenApp/ViewController.swift"
+            timestampString = "530629483.528896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.bedragField.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.476374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.bedragField.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.479203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OmrekenApp.ViewController"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.480309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OmrekenApp.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;OmrekenApp.ViewController&gt;"
+                  moduleName = "OmrekenApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/80751/Desktop/Swift%20Periode%20F/opdracht3%20copy/OmrekenApp/OmrekenApp/ViewController.swift"
+                  timestampString = "530629909.482582"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OmrekenApp/ViewController.swift"
+            timestampString = "530630008.776957"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "buttonPressed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
